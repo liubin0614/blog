@@ -1,0 +1,16 @@
+- **ERC-20（Fungible Tokens）**
+    - 描述：用于创建同质化代币（Fungible Token），每个代币价值相同且不可区分。
+    - 功能：转账、余额查询、授权等。
+    - 应用：稳定币（USDT、USDC）、治理代币（UNI、COMP）。
+- **ERC-721（Non-Fungible Tokens, NFT）**
+    - 描述：用于创建非同质化代币，每个代币独一无二。
+    - 功能：标识单一资产的所有权，如艺术品、游戏资产。
+    - 应用：CryptoKitties、Bored Ape Yacht Club。
+- **ERC-1155（Multi-Token Standard）**
+    - 描述：支持同质化代币和非同质化代币的混合管理。
+    - 功能：允许单个合约管理多种代币。
+    - 应用：游戏资产、NFT 批量铸造。
+- **ERC-4626（Tokenized Vaults）**
+    - 描述：用于代币化资产管理池，优化收益聚合。
+    - 功能：标准化 DeFi 投资协议中的收益策略。
+    - 应用：Yearn Vaults 等。
